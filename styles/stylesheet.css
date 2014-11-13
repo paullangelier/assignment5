@@ -1,0 +1,145 @@
+body 
+{
+    background-color: White
+}
+
+header {
+	background-color: #C1E057;
+	width: 1000px;
+	height: 110px;
+}
+
+header a 
+{
+    text-decoration: none;
+    color: Black;
+}
+
+h1 
+{
+    font-family: "Tw Cen MT";
+    font-weight: lighter;
+    padding-left: 10px;
+    position: relative;
+    top: 25px;
+}
+
+h3 {
+	padding-left: 10px;
+	font-family: "Arial Baltic";
+	font-weight: 100;
+}
+
+.navTop 
+{
+	background-color: White;
+	width: 1000px;
+	height: 30px;
+}
+
+.navTop ul {
+	background-color: white;
+	height: 30px;
+}
+
+.navTop li {
+	display: inline-block;
+	margin-right: 40px;
+	font-weight: bold;
+	padding-top: 7px;
+	font-family: "Tw Cen MT";
+}
+
+.navLeft 
+{
+	background-color: #57DFDD;
+	width: 200px;
+	height: 275px;
+	padding-top:30px;
+	margin-top:20px;
+	line-height: 2em;
+	display:block;
+}
+
+.navLeft li 
+{
+    list-style: none;
+    color: White;
+    font-family: "Tw Cen MT";
+    font-weight: normal;
+    font-size: large;
+}
+
+.navLeft a 
+{
+    text-decoration: none;
+    color: white;
+}
+
+.navLeftBottom 
+{
+    background-color: #57BEDF;
+	height: 170px;
+	width: 200px;
+    margin-top: 10px;
+    float: left;
+}
+
+.navCenter 
+{
+    position: absolute;
+	background-color: Yellow;
+	width: 500px;
+	height: 300px;
+}
+
+.mainSection 
+{
+	display: inline-block;
+	background-color: white;
+	position: relative;
+	width: 790px;
+	height: 467px;
+	top: -305px;
+	left: 10px;
+}
+
+aside 
+{
+    display: inline-block;
+	height: 55px;
+	width: 100%;
+	background-color: #DFD758;
+	margin: 0;
+	text-align: center;
+	color: White;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 8px;
+	font-family: Arial;
+}
+
+article 
+{
+    height: 335px;
+    margin: 50px 100px 0px 100px;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+footer 
+{
+	background-color: #AEAFB1;
+	height: 30px;
+}
+
+.ulInlineRight li {
+    float: right;
+    list-style: none;
+    padding-right: 4px;
+    margin-right: 10px;
+}
+
+a {
+	color:Black;
+}
