@@ -4,7 +4,7 @@ body
 }
 
 header {
-	background-color: #C1E057;
+	background-color: green;
 	width: 1000px;
 	height: 110px;
 }
@@ -22,12 +22,14 @@ h1
     padding-left: 10px;
     position: relative;
     top: 25px;
+    color: White;
 }
 
 h3 {
 	padding-left: 10px;
 	font-family: "Arial Baltic";
 	font-weight: 100;
+	color: white;
 }
 
 .navTop 
@@ -109,7 +111,7 @@ aside
     display: inline-block;
 	height: 55px;
 	width: 100%;
-	background-color: #DFD758;
+	background-color: blue;
 	margin: 0;
 	text-align: center;
 	color: White;
@@ -123,8 +125,10 @@ article
 {
     height: 335px;
     margin: 50px 100px 0px 100px;
-    overflow: hidden;
+    overflow: scroll;
     font-family: Arial;
+    font-size: 2em;
+    
 }
 
 footer 
